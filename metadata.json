@@ -1,0 +1,6 @@
+{
+  "name": "ChaatLedger",
+  "description": "Sales and expense tracker for chaat stalls and food shops with daily profit calculations, quick-entry logs, and history management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
